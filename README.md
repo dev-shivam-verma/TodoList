@@ -1,5 +1,5 @@
-# TodoList
-Basic todo list appliation in react
+# TodoList 
+Basic todo list appliation in react (switch to branch master for code)
 ---
 Live at: https://efficienttodo.netlify.app/
 ---
